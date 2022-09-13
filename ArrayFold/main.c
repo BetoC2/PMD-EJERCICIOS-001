@@ -6,6 +6,7 @@
 //TEMPLATE BEGIN
 int almostFold(int *domain, int count)
 {
+
 }
 //TEMPLATE END
 
