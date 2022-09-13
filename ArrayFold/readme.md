@@ -11,7 +11,7 @@ $\delta \operatorname{agregate} = \delta \operatorname{domain}_0 \times \delta \
 
 por ejemplo:
 
-$$ \delta \operatorname{domain} \begin{bmatrix} 5 & 4 & -1 \\ \end{bmatrix} \mapsto \delta \operatorname{agregate} = 5 \times 4 \times -1 = -20 $$
+$\delta \operatorname{domain} \begin{bmatrix} 5 & 4 & -1 \\ \end{bmatrix} \mapsto \delta \operatorname{agregate} = 5 \times 4 \times -1 = -20$
 
 $\lambda \operatorname{almostFold}(\delta \operatorname{domain}, \delta \operatorname{count}) \mapsto \nabla \verb|void|$
 
