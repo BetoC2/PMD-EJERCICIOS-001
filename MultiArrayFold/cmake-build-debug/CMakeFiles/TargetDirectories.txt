@@ -1,0 +1,3 @@
+C:/Users/alberto/Documents/workspace/2-Ejercicios/001 Ejercicio/MultiArrayFold/cmake-build-debug/CMakeFiles/MultiArrayFold.dir
+C:/Users/alberto/Documents/workspace/2-Ejercicios/001 Ejercicio/MultiArrayFold/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alberto/Documents/workspace/2-Ejercicios/001 Ejercicio/MultiArrayFold/cmake-build-debug/CMakeFiles/rebuild_cache.dir
