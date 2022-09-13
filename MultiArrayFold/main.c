@@ -7,6 +7,24 @@
 //TEMPLATE BEGIN
 void multiArrayTransform(int **domain)
 {
+    int *arrayStart = *domain;
+    int index = *arrayStart;
+    int count = 1;
+
+    while (index != -1)
+    {
+        int sum = 0;
+
+        for (int i = 1; i <= index; i++)
+            sum += *(arrayStart + i);
+
+        *arrayStart = sum;
+
+        arrayStart = *(domain + count);
+        index = *arrayStart;
+
+        count++;
+    }
 }
 //TEMPLATE END
 
